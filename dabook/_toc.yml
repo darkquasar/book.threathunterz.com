@@ -1,0 +1,7 @@
+# - file: README
+- file: docs/index
+  sections:
+    - file: docs/incident-response/section-1/ir01-intro-to-incident-response
+    - file: docs/incident-response/section-1/ir02-risk-and-decision-making
+    - file: docs/incident-response/section-1/ir03-risk-and-trust
+    - file: docs/incident-response/section-1/ir04-risk-matrix

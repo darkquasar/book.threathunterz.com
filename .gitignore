@@ -1,0 +1,10 @@
+dabook/_build/*
+.ipynb_checkpoints
+.DS_Store
+**/__pycache__/
+.secrets/*
+\.vscode/settings\.json
+dabook/Pipfile
+dabook/Pipfile\.lock
+
+
