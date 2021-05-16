@@ -44,9 +44,9 @@ We have presented the OODA loop, however, this approach has received some critic
 
 Let's recap what we said about the purpose of _models_ previously:
 
-{{% notice note %}}
+```{note}
 Models are ways of **translating natural systems to formal systems**. This translation involves simplification. Simplification implies selection of relevant patterns in the natural system. This selection can be objective, but also subjective, i.e. determined by our goals.
-{{% /notice %}}
+```
 
 I came across an [article](http://armedforcesjournal.com/goodbye-ooda-loop/) once in the US Armed Forces Military Journal entitled "Goodbye, OODA Loop" where the author expresses that their approach towards the "unemployed Sunni in the streets" problem in Iraq (an attempt to disrupt the iraqi insurgence recruitment strategy by employing idle people that roamed the streets) meant looking at it as a merely complicated construct. Their mistake however, he points out, consisted in
 
@@ -62,9 +62,9 @@ To overcome the limitations pointed out by the previous critiques, we need to ta
 
 Complicatedness is a function of a system's known states, it behaves linearly, it can be measured quantitatively and has incremental states. Complexity is a quality of systems, it cannot be measured in discrete units and does not behave linearly. Complexity accounts for those unknown states of interconnected systems: _it adds the dimension of subjectivity as it refers to the way multiple systems (complicated or simple) interact with and perceive each other_.
 
-{{% notice note %}}
+```{note}
 **Context** matters, from the point of view of a single system, it represents the network of relations that it holds with other systems and context, as you know, is central to most decision making models.
-{{% /notice %}}
+```
 
 (some graph on the characteristics of a complex system)
 
@@ -132,9 +132,9 @@ All models are fallible, because in the end they just represent different attemp
 
 The problem lays in limiting ourselves to a model that is good at working out choices in a single domain: team management, innovation, iterative problem solving, diplomacy, finance management, technical response, etc. To overcome this limitation we need to resort to a different approach. Enter Structured Decision Making (SDM) a powerful approach that has proven useful across many areas (for example at facilitating governance in the high complexity of environmental decisions and environment management). SDM is a framework for analysing decisions characterized by tough multidimensional choices that exhibit features like uncertain behaviour, difficult trade-offs, diverse stakeholders, etc. SDM achieves the purpose of developing a decision making plan that is **defensible**, **transparent** and **improvement-worthy** by creating a **manageable complexity** that breaks a problem into component parts (Clemen, 1997). When applied to IR, it develops a _continuous preparedness cycle_ that builds organisational resilience in the face of cyber threats.
 
-{{% notice tip %}}
+```{tip}
 IR contributes to build your organisational resilience in the face of cyber threats
-{{% /notice %}}
+```
 
 By adopting an SDM approach, our aim is to reduce uncertainty by identifying the key factors that thwart our decision process. However, how do we go about implementing an SDM approach within our Incident Response teams?
 

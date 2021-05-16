@@ -38,7 +38,7 @@ jobs:
         run: |
           jupyter-book build ./dabook
 
-      - name: Pushes changes to threathunterz.com
+      - name: Push changes to threathunterz.com
         uses: darkquasar/github-action-push-to-another-repository@master
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}

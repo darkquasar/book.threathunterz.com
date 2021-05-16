@@ -18,11 +18,11 @@ https://www.ietf.org/rfc/rfc2350.txt
 ## The Six Stages of IR
 Describe the usual stages here. 
 
-{{% notice tip %}}
+```{tip}
 A good mnemonic is **PACERL**: Preparation, Analysis (Identification
 and Scoping), Containment (Intel Development included), Eradication,
 Recovery, Lessons Learned.
-{{% /notice %}}
+```
 
 ### Preparation
 

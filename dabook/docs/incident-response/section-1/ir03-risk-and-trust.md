@@ -17,9 +17,9 @@ The reason why Artanis was so proud of himself after a quick chat with his Incid
 
 I know what you are thinking, *"how is this truly relevant to IR?"* you ask. Well,
 
-{{% notice note %}}
+```{note}
 Trust does not operate at the informational level and won't give you a probability distribution of success for a given IR plan, but it works at the *emotional level*, by opening channels that facilitate the acquisition of higher levels of certainty.
-{{% /notice %}}
+```
 
 All the above circles back to trust: *how can trust minimize risk and increase incident response effectiveness in your daily cyber operations?*. 
 
@@ -34,9 +34,9 @@ It was the year 1997 in New York and Anette Sørensen, a Danish mother, left her
 
 So far we have been speaking of trust but *what is trust*[^BehavioralOperations]
 
-{{% notice note %}}
-“Trust is to behave voluntarily in a way to accept vulnerability due to uncertain behavior of another (the trustee), based upon the  expectation of a positive outcome.” (The Handbook of Behavioral Operations, 2019)
-{{% /notice %}}
+
+> “Trust is to behave voluntarily in a way to accept vulnerability due to uncertain behavior of another (the trustee), based upon the  expectation of a positive outcome.” (The Handbook of Behavioral Operations, 2019)
+
 
 The likelihood for someone to trust any given person is driven by that persons' **trustworthiness** (of which subjective aspects like *reputation* are an expression). It informs our risk management process by providing insight into the *uncertain behaviour of another*. 
 There are four elements to trustworthyness: **reliability** (aka *dependability*), **congruence** (when your acts are in line with your values, "you are what you do, not what you say you'll do"), **confirmability** (are there clear expressions of the person's reliability, can others vouch for it, etc.) and **credibility** (accrued reputation).
