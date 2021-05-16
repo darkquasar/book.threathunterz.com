@@ -1,17 +1,17 @@
 ---
-title: "The Cybernet Hunter Book"
-description: "Investigations into the transient fluctuations of reality in the cybersphere. A live book about Incident Response, Digital Forensics, Threat Intelligence and Cyber Security Operations."
+title: "The Way of the Cyber Warrior: Tactical Cyber Threat Response"
+description: "Investigations into the transient fluctuations of reality in the cybersphere. A live book about Incident Response, Threat Hunting and Cyber Security Operations."
 chapter: true
 weight: 1
 ---
 
-# The Book
+# The Way of the Cyber Warrior
 
 ![](https://res.cloudinary.com/dnlarfkn3/image/upload/v1590544467/docs.quasarops.com/cyber-punk-mf_v7j5mi.png)
 
 ### Investigations into the transient fluctuations of reality in the cybersphere
 
-A live book about Incident Response, Digital Forensics, Threat Intelligence and Cyber Security Operations.
+A live book about Incident Response, Threat Hunting and Cyber Security Operations.
 
 ### <i class="fas fa-book"></i> Why? 
 

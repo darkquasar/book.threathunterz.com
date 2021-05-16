@@ -1,6 +1,6 @@
 #######################################################################################
 # Book settings
-title                       : The Cybernet Hunter's Book  # The title of the book. Will be placed in the left navbar.
+title                       : "The Way of the Cyber Warrior: Tactical Cyber Threat Response"  # The title of the book. Will be placed in the left navbar.
 author                      : Diego Perez  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : "./figures/logo/cyber-punk-mf_v7j5mi.png"  # A path to the book logo
