@@ -1,7 +1,23 @@
-format: jb-article
+format: jb-book
 root: docs/index
-sections:
-- file: docs/incident-response/section-1/ir01-intro-to-incident-response
-- file: docs/incident-response/section-1/ir02-risk-and-decision-making
-- file: docs/incident-response/section-1/ir03-risk-and-trust
-- file: docs/incident-response/section-1/ir04-risk-matrix
+
+parts:
+- caption: Cyber Incident Response
+  chapters:
+  - file: docs/incident-response/chapter-01/ir10-intro-chapter
+    sections:
+    - file: docs/incident-response/chapter-01/ir11-intro-to-incident-response
+    - file: docs/incident-response/chapter-01/ir12-risk-and-decision-making
+    - file: docs/incident-response/chapter-01/ir13-risk-and-trust
+    - file: docs/incident-response/chapter-01/ir14-risk-matrix
+  - file: docs/incident-response/chapter-02/ir20-intro-chapter
+    sections:
+    - file: docs/incident-response/chapter-02/ir21-lifecycle-of-ir
+#      - file: docs/incident-response/chapter-02/ir22-preparation
+#      - file: docs/incident-response/chapter-02/ir23-analysis&identification
+#      - file: docs/incident-response/chapter-02/ir24-containment
+#      - file: docs/incident-response/chapter-02/ir25-erradication
+#      - file: docs/incident-response/chapter-02/ir26-recovery
+#- caption: SOC Operations
+#  chapters:
+#  - file: docs/soc-operations/chapter-01/soc10-intro-to-soc-operations

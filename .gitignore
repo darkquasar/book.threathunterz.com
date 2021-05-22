@@ -1,3 +1,4 @@
+# Jupyter Book
 dabook/_build/*
 .ipynb_checkpoints
 .DS_Store
@@ -7,4 +8,5 @@ dabook/_build/*
 dabook/Pipfile
 dabook/Pipfile\.lock
 
-
+# Obsidian
+.obsidian/

@@ -1,5 +1,5 @@
 ---
-title: "Threat Detection"
+title: "Threat Hunting"
 chapter: true
 draft: false
 pre: "<b>3. </b>"

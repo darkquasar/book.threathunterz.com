@@ -1,11 +1,18 @@
 ---
-title: "Chapter 4: Operationalizing Risk"
+title: "Operationalizing Risk"
+chapter: 1
+section: 4
 date: 2020-04-25
 slug: "operationalizing-risk"
 description: "Putting together an Incident Response Strategy for your Organization requires the ability to break down its components into measurable elements with tangible outcomes. In this chapter we will explore different approaches to operationalize cyber risk in the context of IR"
 draft: true
 weight: 5
+authors: "Diego Perez (@darkquassar)"
 ---
+
+# Operationalizing Risk
+
+Putting together an Incident Response Strategy for your Organization requires the ability to break down its components into measurable elements with tangible outcomes. In this chapter we will explore different approaches to operationalize cyber risk in the context of IR
 
 ## Defining a Cyber Risk Matrix
 

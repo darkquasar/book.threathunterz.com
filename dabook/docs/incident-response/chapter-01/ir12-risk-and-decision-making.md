@@ -1,5 +1,7 @@
 ---
-title: "Chapter 2: Risk and Decision Making"
+title: "Risk and Decision Making"
+chapter: 1
+section: 2
 date: 2020-01-11
 slug: risk-and-decision-making
 description: "Incident Response is the practical operationalization of risk, i.e., a structured approach to tactical cyber operations in the context of uncertainty and ambiguity"
@@ -10,8 +12,12 @@ categories:
 - incident response
 draft: false
 weight: 2
-
+authors: "Diego Perez (@darkquassar)"
 ---
+
+# Risk and Decision Making
+
+Incident Response is the practical operationalization of risk, i.e., a structured approach to tactical cyber operations in the context of uncertainty and ambiguity. In this section, we will lay out some decision making models and their implications.
 
 ## Decision Making Models
 

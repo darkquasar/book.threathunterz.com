@@ -1,11 +1,17 @@
 ---
-title: "Chapter 3: Incident Response & Organizational Trust"
+title: "Incident Response & Organizational Trust"
+chapter: 1
+section: 3
 date: 2020-04-26
 slug: "risk-and-trust"
 description: "The role of intangible skills in cyber operations is frequently overlooked. In this chapter, we will argue that trust is an essential factor that determines the success of incident response workflows"
 draft: true
 weight: 3
+authors: "Diego Perez (@darkquassar)"
 ---
+
+# Incident Response & Organizational Trust
+The role of intangible skills in cyber operations is frequently overlooked. In this chapter, we will argue that trust is an essential factor that determines the success of incident response workflows
 
 ## The Role of Emotion in Decision Making
 

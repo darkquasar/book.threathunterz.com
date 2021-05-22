@@ -1,21 +1,24 @@
 ---
 title: "The Lifecycle of Incident Response"
+chapter: 2
+section: 1
 date: 2020-01-11
 draft: true
 weight: 3
+authors: "Diego Perez (@darkquassar)"
 ---
 
 Authors: Diego Perez (@darkquassar)
 
 
-## The Lifecycle of Incident Response
+# The Lifecycle of Incident Response
 
 Incident Response has many aspects that structure it as a tactical activity. 
 
-### Make cl
+## Make cl
 https://www.ietf.org/rfc/rfc2350.txt
 
-## The Six Stages of IR
+# The Six Stages of IR
 Describe the usual stages here. 
 
 ```{tip}
@@ -24,24 +27,24 @@ and Scoping), Containment (Intel Development included), Eradication,
 Recovery, Lessons Learned.
 ```
 
-### Preparation
+## Preparation
 
-### Analysis
+## Analysis
 This step was subverted from SANS usual ones, since identification is a core aspect of analysis. 
 
-### Containment
+## Containment
 A
 
-### Eradication
+## Eradication
 A
 
-### Recovery
+## Recovery
 A
 
-### Lessons Learned
+## Lessons Learned
 A
 
-### Remediation Cycle: Containment and Eradication
+## Remediation Cycle: Containment and Eradication
 
 It's a continuous process:
 
@@ -61,9 +64,9 @@ Some measures might include:
 
 
 
-## Types of Response
+# Types of Response
 
-### Standard Live Response vs. Rapid / Abbreviated Triage
+## Standard Live Response vs. Rapid / Abbreviated Triage
 
 There are situations in which a **standard live response** (deep dive
 analysis, answers in 1 to 2 days) will not yield the expected results
