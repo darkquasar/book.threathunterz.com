@@ -7,9 +7,10 @@ parts:
   - file: docs/incident-response/chapter-01/ir10-intro-chapter
     sections:
     - file: docs/incident-response/chapter-01/ir11-intro-to-incident-response
-    - file: docs/incident-response/chapter-01/ir12-risk-and-decision-making
-    - file: docs/incident-response/chapter-01/ir13-risk-and-trust
-    - file: docs/incident-response/chapter-01/ir14-risk-matrix
+    - file: docs/incident-response/chapter-01/ir12-decision-making-models
+    - file: docs/incident-response/chapter-01/ir13-complexity-risk-and-decision-making
+    - file: docs/incident-response/chapter-01/ir14-risk-and-trust
+    - file: docs/incident-response/chapter-01/ir15-risk-matrix
   - file: docs/incident-response/chapter-02/ir20-intro-chapter
     sections:
     - file: docs/incident-response/chapter-02/ir21-lifecycle-of-ir

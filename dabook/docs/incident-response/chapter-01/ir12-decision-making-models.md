@@ -69,9 +69,9 @@ As you can see, these steps could be used to explain the majority of decision ma
 
 ## The Bounded Rationality Framework
 
-In opposition to the global rationality approach, *bounded rationality* tries to account for the factors that limit an agent's knowledge of a situation and their capacity to compute multiple different scenarios, both in quantity and quality. Simon states that
+The global rationality approach operates based on the assumption that it is possible to "objectively" describe the decision field of an agent. In this objective decision field, there are only *external constraints* which can be completely accounted for. In opposition to the global rationality approach, *bounded rationality* tries to account for the factors that explain an agent's *internal constraints*. The subjective environment that filters and limits the agent's cognition of the decision field that surrounds it. An agent's contextual awareness of the decision field adds constraints that make decisional actions more realistic. Agents are limited by their capacity to compute multiple different scenarios, both in quantity and quality. Simon states that
 
-> boundedly rational agents experience limits in formulating and solving complex problems and in processing (receiving, storing, retrieving, transmitting) [^SimonBoundedRat]
+> boundedly rational agents experience limits in formulating and solving complex problems and in processing (receiving, storing, retrieving, transmitting) information [^SimonBoundedRat]
 
 ### Observe, Orient, Decide, Act (OODA Loop)
 
