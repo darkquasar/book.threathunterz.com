@@ -1,43 +1,17 @@
 ---
-title: "Risk and Decision Making"
+title: "Complexity, Risk and Decision Making"
 chapter: 1
-section: 2
-date: 2020-01-11
-slug: risk-and-decision-making
+section: 3
+date: 2021-03-21
+slug: complexity-risk-and-decision-making
 description: "Incident Response is the practical operationalization of risk, i.e., a structured approach to tactical cyber operations in the context of uncertainty and ambiguity"
-tags:
-- decision-making
-- risk-matrix
-categories:
-- incident response
+tags: [decision-making, choice, models, risk-matrix]
+categories: [incident response]
 draft: false
-weight: 2
+weight: 3
 authors: "Diego Perez (@darkquassar)"
 ---
 
-# Risk and Decision Making
-
-Incident Response is the practical operationalization of risk, i.e., a structured approach to tactical cyber operations in the context of uncertainty and ambiguity. In this section, we will lay out some decision making models and their implications.
-
-## Decision Making Models
-
-We have spoken about the need to utilize diverse models for our decision making process, let's review those that you most likely find out there in the books that talk about cyber security operations.
-
-### Observe, Orient, Decide, Act (OODA Loop)
-
-This model focuses on quick decision making processes.
-
-![ooda-loop](https://res.cloudinary.com/dnlarfkn3/image/upload/v1587635883/quasarops/OODA_Loop_gunjos.png)
-
-### Plan, Do, Check, Act (PDCA / PDSA) Cycle
-
-PDCA is a four-stage iterative approach to continually improve processes. It became widely known due to American Professor and Engineer W. Edwards Deming who later used the concept of Plan-Do-**Study**-Act (PDSA) since he wanted to emphasize the _analysis_ aspect of it as opposed to a mere _inspection_.
-
-![plan-do-check-act](https://res.cloudinary.com/dnlarfkn3/image/upload/v1587980533/quasarops/pdca-loop_sjikd2.png)
-
-### Military Decision Making Process (MDMP)
-
-(Graph TBD)
 
 ## Alternative Decision-Making Models
 
@@ -147,3 +121,6 @@ By adopting an SDM approach, our aim is to reduce uncertainty by identifying the
 [^ComplexComplicated]: "Among the theories informing this trend were: the work of Holland (1992) on a 'genetic algorithm' (an attempt to model the phenomena of variation, combination and selection underlying most processes of evolution and adaptation); the research of Kaufmann (1993) on 'Boolean networks' (grounded in the study of properties related to networks of genes or chemical reactions in an evolutionary perspective informed by self-organisation); the research of Bak (Bak & Chen, 1991) on 'self-organized criticality' (aiming to describe the evolution of physical or living phenomena toward a 'critical edge' located between stability and chaos); and the work of Wolfram (2001) on 'cellular automata' (using mathematical models and computer simulations to describe evolution of chaotic phenomena)".
 [^the-paradox-of-choice]: although some might point out that simplifying complex systems is not always easy, we live in a society where the abundance of choice is the norm. Decision stagnation it's a *real consequence* of poorly managed decision making. We can see some of this in the [paradox of choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)/
 [^SimplicityIsOverrated]: there has been some criticism for the imperative that we should pursue simplicity. Ref. [simplicity is overrated](https://jnd.org/simplicity_is_highly_overrated/)
+[^HerbertSimonRat]: SIMON, Herbert A. (1957) _Models of Man, Social and Rational: Mathematical Essays on Rational Human Behavior in a Social Setting_, New York: John Wiley and Sons.
+[^HerbertSimonRat2]: Barros, GustavoHerbert A. Simon and the concept of rationality: boundaries and procedures. Brazilian Journal of Political Economy [online]. 2010, v. 30, n. 3 [Accessed 2 June 2021] , pp. 455-472. Available from: <https://doi.org/10.1590/S0101-31572010000300006>. Epub 06 Dec 2010. ISSN 1809-4538. https://doi.org/10.1590/S0101-31572010000300006.
+[^HerbertSimonRat3]: SIMON, Herbert A. (1997) _An Empirically Based Microeconomics_, Cambridge, UK: Cambridge University Press.

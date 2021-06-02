@@ -1,7 +1,7 @@
 ---
 title: "Incident Response & Organizational Trust"
 chapter: 1
-section: 3
+section: 4
 date: 2020-04-26
 slug: "risk-and-trust"
 description: "The role of intangible skills in cyber operations is frequently overlooked. In this chapter, we will argue that trust is an essential factor that determines the success of incident response workflows"
