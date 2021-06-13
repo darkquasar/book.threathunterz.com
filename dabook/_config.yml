@@ -10,7 +10,7 @@ exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building t
 # Information about where the book exists on the web
 description: >-
   Investigations into the transient fluctuations of reality in the cybersphere.
-  
+
 #######################################################################################
 # Execution settings
 execute:
@@ -64,4 +64,4 @@ binder:
 latex:
   latex_engine                : "xelatex"
   latex_documents:
-    targetname: book.tex 
+    targetname: book.tex

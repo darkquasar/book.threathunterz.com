@@ -26,7 +26,7 @@ To Simon, the distance between rationality and behavior is bridged by the concep
 
 > Rationality is a criterion used in the decision that is theoretically grounded on the presupposition that the agents are _intendedly_ rational. In other words, the agents _value_ rationality as a criterion of choice and it is in this sense, and by this route, that rationality is taken as an explaining principle.[^HerbertSimonRat2]
 
-In the field of decision making, this means that, broadly speaking, any decision making model can be broken down into two categories: 
+In the field of decision making, this means that, broadly speaking, any decision making model can be ascribed to one of two frameworks: 
 
 - Global Rationality (aka the plainly "rational" approach)
 - Bounded Rationality (the constrained or limited rationality approach)
@@ -35,9 +35,9 @@ These categories can be broken down into different models:
 
 - Rational
 	-  The 7-Step Process
+	-  Observe, Orient, Decide, Act (OODA)
+	-  Plan, Do, Check, Act (PDCA)
 - Bounded Rationality
-	- Observe, Orient, Decide, Act (OODA)
-	- Plan, Do, Check, Act (PDCA) 
 	- Military Decision Making Process (MDMP)
 	- Structured Decision Making (SDM)
 
@@ -67,27 +67,35 @@ This process consists briefly of the following steps:
 
 As you can see, these steps could be used to explain the majority of decision making models which are in essence variations to this very abstract process definition.
 
-## The Bounded Rationality Framework
-
-The global rationality approach operates based on the assumption that it is possible to "objectively" describe the decision field of an agent. In this objective decision field, there are only *external constraints* which can be completely accounted for. In opposition to the global rationality approach, *bounded rationality* tries to account for the factors that explain an agent's *internal constraints*. The subjective environment that filters and limits the agent's cognition of the decision field that surrounds it. An agent's contextual awareness of the decision field adds constraints that make decisional actions more realistic. Agents are limited by their capacity to compute multiple different scenarios, both in quantity and quality. Simon states that
-
-> boundedly rational agents experience limits in formulating and solving complex problems and in processing (receiving, storing, retrieving, transmitting) information [^SimonBoundedRat]
-
-### Observe, Orient, Decide, Act (OODA Loop)
+## Observe, Orient, Decide, Act (OODA Loop)
 
 This model focuses on quick decision making processes.
 
 ![ooda-loop](https://res.cloudinary.com/dnlarfkn3/image/upload/v1587635883/quasarops/OODA_Loop_gunjos.png)
 
-### Plan, Do, Check, Act (PDCA / PDSA) Cycle
+## Plan, Do, Check, Act (PDCA / PDSA) Cycle
 
 PDCA is a four-stage iterative approach to continually improve processes. It became widely known due to American Professor and Engineer W. Edwards Deming who later used the concept of Plan-Do-**Study**-Act (PDSA) since he wanted to emphasize the _analysis_ aspect of it as opposed to a mere _inspection_.
 
 ![plan-do-check-act](https://res.cloudinary.com/dnlarfkn3/image/upload/v1587980533/quasarops/pdca-loop_sjikd2.png)
 
-### Military Decision Making Process (MDMP)
+# The Bounded Rationality Framework
 
+The global rationality approach operates based on the assumption that it is possible to "objectively" describe the **decision field** of an agent. In this objective decision field, we can only encounter *external constraints* which are potentially identifiable in their full scope. Such constraints are laid out in front of us, they are assumed to be self-evident given the right amount of information about the problem. In opposition to the global rationality approach, *bounded rationality* tries to account for the factors that explain an agent's *internal constraints*. The subjective environment that filters and limits the agent's cognition of the surrounding field of possibilities. An agent's contextual awareness and perceptual processing of its decision field adds constraints that make decisional actions more realistic. Agents are limited by their capacity to compute multiple different scenarios, both in quantity and quality. Simon states that
+
+> boundedly rational agents experience limits in formulating and solving complex problems and in processing (receiving, storing, retrieving, transmitting) information [^SimonBoundedRat]
+
+Let's explore some bounded rationality models and what are their mechanics. 
+
+
+## Military Decision Making Process (MDMP)
 (Graph TBD)
+
+# The aftermath: is it enough with models?
+We have explored some decision making models and we could walk away armed with this knowledge to start implementing it in our business operations. Sounds relatively doable right? However, the problem that still lays ahead of us is the understanding of how these models interface with the complexities of the business and human world. In other words, what are the relevant factors to consider when translating the complex environments of societal living and business structures into decision frameworks that guide our actions and shape our leadership styles? We shall explore this in the next section.
+
+
+
 
 
 [^SimplicityIsOverrated]: there has been some criticism for the imperative that we should pursue simplicity. Ref. [simplicity is overrated](https://jnd.org/simplicity_is_highly_overrated/)

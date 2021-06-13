@@ -13,44 +13,44 @@ authors: "Diego Perez (@darkquassar)"
 ---
 
 
-## Alternative Decision-Making Models
+# Complication and Complexity
 
-We have presented the OODA loop, however, this approach has received some criticism over time (which is always a good thing when done right). Amongst the most notorious critiques we find:
+We have discussed global rationality and bounded rationality decision making frameworks. A prime example of the former is John Boyd's famous OODA loop. This approach, however, along others under the bounded rationality umbrella, have received some criticism over time (which is always a good thing when done right). Amongst the most notorious critiques to OODA we find:
 
-1. The model is too obvious
-2. The model is too simple
+1. **The model is deterministic**: it is most efficient when the nexus between cause and effect is known but fails to provide a useful framework in scenarios with a high degree of unpredictability. 
+2. **The model is simplistic**: it does not account for contextual variations of the problem field and the agent's ability to process complicated scenarios. 
 
-### Complication and Complexity
+Bounded rationality models are dominated by the notion that there are specific *knowable causes* that are linked to corresponding *measurable effects*. This in turn generates biased resource allocation towards the information gathering phases (i.e. the Observe and Orient in OODA) where *it is assumed that more information will produce better outcomes (action)*. However, **a system's ability to translate information into knowledge** is a fundamental factor not accounted for in the bounded rationality framework. This in turn means that agents are not empowered with the tools to understand how available information is converted into insight (knowledge) in order to drive organizational (and individual) decisions. The result of this type of thinking is to spend a lot of time narrowing the focus of what data we choose to gather from the environment without questioning whether this data does actually lead to further insight. The problem with this approach is that it generates a false sense of predictability that, when challenged by unpredictable, non-deterministic factors, *it throws agents into a confusion space* to which human groups react with negative emotions. In organizational domains, these emotions are usually expressed as *fear* which decomposes into blame and blame into a depletion of trustworthiness and self-esteem which cascades, finally, into decisional stagnation.
 
 Let's recap what we said about the purpose of _models_ previously:
 
 ```{note}
-Models are ways of **translating natural systems to formal systems**. This translation involves simplification. Simplification implies selection of relevant patterns in the natural system. This selection can be objective, but also subjective, i.e. determined by our goals.
+Models are ways of **translating natural systems to formal systems**. This translation requires simplification which, in turn, involves a selection of relevant patterns from those source natural systems that can be formalized in some way. Such selection is influenced by both objective (agreed upon facts about the behaviour of the natural systems) and subjective factors (determined by our goals, motivations, perceptions and organic constitution).
 ```
 
-I came across an [article](http://armedforcesjournal.com/goodbye-ooda-loop/) once in the US Armed Forces Military Journal entitled "Goodbye, OODA Loop" where the author expresses that their approach towards the "unemployed Sunni in the streets" problem in Iraq (an attempt to disrupt the iraqi insurgence recruitment strategy by employing idle people that roamed the streets) meant looking at it as a merely complicated construct. Their mistake however, he points out, consisted in
+In my research about complexity, I came across an [article](https://web.archive.org/web/20201028142719/http://armedforcesjournal.com/goodbye-ooda-loop/)[^goodbyeooda] in the US Armed Forces Military Journal entitled "Goodbye, OODA Loop". In this article, the author makes a reference to the issue of the "unemployed Sunni in the streets" problem in Iraq, where the US forces identified an opportunity to disrupt the iraqi insurgence recruitment strategy by employing idle people that roamed the streets. The article then goes to show that, the approach towards this problem, implied looking at the issue as a merely complicated construct. Their mistake however, he points out, consisted in
 
 > "thinking a fundamentally complex problem — one with so many seen and unseen variables that there are no longer direct correlations between action and outcome — was merely a complicated one, with direct linkages between cause and effect"
 
 Effectively, _thinking in complicated terms does not mean you are capturing higher levels of complexity_.
 
-To overcome the limitations pointed out by the previous critiques, we need to talk about the two dimensions in which the OODA model could be improved. Indeed, to defeat obviousness we need to add complicatedness, to overcome simplicity we need to add complexity. However, *complication and complexity are not the same thing*: they express different characteristics of a system.
+To overcome the limitations pointed out by the previous critiques, we need to talk about the two dimensions in which models such as OODA could be improved. Indeed, to defeat the deterministic assumptions of the model, and overcome its simplicity, we need to account for the complexity of dynamic natural and human systems. Does this mean the model needs to be more *complicated*? Not necessarily, *complication and complexity are not the same thing*: they express different characteristics of a system.
 
-**Complicatedness is a subset of complexity**. Is a computer complicated or complex? You may say that things like the human brain are complex whereas a computer is not, since computing algorithms are deterministic, they are programmed to behave in a certain way. Well this is *not* entirely true, non-deterministic behaviour can arise from even the simplest of algorithms. This is what Stephen Wolfram demonstrated with his investigations on [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton). In other words, complexity does *not* have a direct correlation with **complicatedness**. There are many definitions of complexity out there, a good starting point to understand the concept is a paper by Serena Chan called [Complex Adaptive Systems](http://web.mit.edu/esd.83/www/notebook/Complex%20Adaptive%20Systems.pdf), for our purposes it suffices to point out that:
+**Complicatedness is a subset of complexity**. Is a computer complicated or complex? You may say that things like the human brain are complex whereas a computer is not, since computing algorithms are deterministic, they are programmed to behave in a certain way, their behaviour is predictable. Well this is *not* entirely true, non-deterministic behaviour can arise from even the simplest of algorithms. This is what Stephen Wolfram demonstrated with his investigations on [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton). In other words, complexity does *not* have a direct correlation with **complicatedness**. Rather, their relation is non-linear: simple, uncomplicated systems can spawn complex behaviour where the output is not proportional to the input. There are many definitions of complexity out there, a good starting point to understand the concept is a paper by Serena Chan called [Complex Adaptive Systems](http://web.mit.edu/esd.83/www/notebook/Complex%20Adaptive%20Systems.pdf), for our purposes it suffices to point out that:
 
 > complexity is not a function of an isolated system but the [emergent](https://en.wikipedia.org/wiki/Emergence) behaviour that arises from the **interaction of multiple systems across multiple domains**, no matter how *simple* or *complicated* those systems are
 
 Complicatedness is a function of a system's known states, it behaves linearly, it can be measured quantitatively and has incremental states. Complexity is a quality of systems, it cannot be measured in discrete units and does not behave linearly. Complexity accounts for those unknown states of interconnected systems: _it adds the dimension of subjectivity as it refers to the way multiple systems (complicated or simple) interact with and perceive each other_.
 
 ```{note}
-**Context** matters, from the point of view of a single system, it represents the network of relations that it holds with other systems and context, as you know, is central to most decision making models.
+**Context** matters. From the point of view of a single system, it represents the network of relations that it holds with another system, whether agents in those systems are aware of it or not. Context, as you know, is therefore central to most decision making models.
 ```
 
 (some graph on the characteristics of a complex system)
 
 Any complicated system is, on some level, part of a complexity[^ComplexComplicated]. By now you are probably asking yourself why, as a security analyst, should you be interested in these things, moreover you have probably drawn a fatal conclusion: if complexity is about understanding that there are unknown states of systems then everything is complex! we live in constant relation with non-linear systems (environment, people, technology, cosmological events, etc.), *doesn't this render our statements thus far trivial?* Not exactly, the point of this short analysis is to introduce the security analyst and researcher to the very core of the relevant frameworks that define your daily operations. Whether you are aware of these frameworks or not, it doesn't make them disappear. I want to help you bring them to the surface and make them conscious. By understanding complexity in decision making you will be better equipped to understand and work in the fast paced environment of cyber security operations. 
 
-#### Hang on man... so what does this all mean to IR? 
+### Hang on man... so what does this all mean to IR? 
 
 I'm glad you asked! Incident Response is full of unknown scenarios. Some of the best responders I know have developed the skills required to come up with plans and strategies and make efficient decisions based on **context** (understand adversarial tactics) and not merely **content** (this or that IOC).
 
@@ -62,7 +62,7 @@ In doing so, we are silently decoding different layers of complexity. However, w
 
 If you have been reflecting upon what I have presented thus far, you have probably figured out that **decision making is at the heart of Incident Response**. During a response we need to look at the problem from a variety of aspects and *thinking outside the box is more the norm than the exception*. You need to ask yourself and your team some non-obvious questions: what is my team's readiness levels? how interconnected and aware of each other's roles are my team members? what role does emotion play during an engagement? how to best define adversary behaviours in the context of our business infrastructure?, etc. One such aspect which falls under the category of a complex factor is trust. Can our understanding of trust, a motivational and affective component, improve our IR efficiency? This is something we shall explore in the next sections.
 
-### The Complexity Trap
+## The Complexity Trap
 
 > "Simplicity is the ultimate sophistication" (Leonardo Da Vinci)
 
@@ -72,7 +72,7 @@ Despite what's been said about _complication_ and _complexity_ let's not forget 
 
 Too much complexity does not add more value to our ability to act and react to a situation. It is not of great benefit to the human brain and does not improve a decision making model. Simplicity seems to still be the purpose of any abstract model. Here's the thing though: you cannot arrive to a simple model without first incorporating the filtered results from the complex models. In essence, even when your goal should be to aim for simplicity, understanding complex/complicated models to the best of your ability is also part of the journey[^SimplicityIsOverrated]. In doing this, **you will learn to build your own schemas, that return the best results in your daily life**.
 
-## Simplexity in Decision Making Models
+# Simplexity in Decision Making Models
 
 > "Everything should be made as simple as possible, but not simpler" Albert Einstein 
 
@@ -91,11 +91,11 @@ Needless to say, to be the best threat analyst you can be, you need to develop a
 
 A useful model called "structured decision making" entered the scene a few years ago as a candidate for a **simplexity framework**.
 
-### Simplexity Thinking
+## Simplexity Thinking
 
 Mention the 8 steps of simplexity thinking by Basadur. Problem solving.
 
-### Structured Decision Making
+## Structured Decision Making
 
 Let's do a quick quiz that will help us understand our way forward: what have we discovered so far? (choose the one that applies the most)
 
@@ -118,6 +118,7 @@ IR contributes to build your organisational resilience in the face of cyber thre
 
 By adopting an SDM approach, our aim is to reduce uncertainty by identifying the key factors that thwart our decision process. However, how do we go about implementing an SDM approach within our Cyber Incident Response teams?
 
+[^goodbyeooda]: This journal article was previously hosted [here](http://armedforcesjournal.com/goodbye-ooda-loop/), but since it does not seem to be available, I've linked the WayBackMachine version.
 [^ComplexComplicated]: "Among the theories informing this trend were: the work of Holland (1992) on a 'genetic algorithm' (an attempt to model the phenomena of variation, combination and selection underlying most processes of evolution and adaptation); the research of Kaufmann (1993) on 'Boolean networks' (grounded in the study of properties related to networks of genes or chemical reactions in an evolutionary perspective informed by self-organisation); the research of Bak (Bak & Chen, 1991) on 'self-organized criticality' (aiming to describe the evolution of physical or living phenomena toward a 'critical edge' located between stability and chaos); and the work of Wolfram (2001) on 'cellular automata' (using mathematical models and computer simulations to describe evolution of chaotic phenomena)".
 [^the-paradox-of-choice]: although some might point out that simplifying complex systems is not always easy, we live in a society where the abundance of choice is the norm. Decision stagnation it's a *real consequence* of poorly managed decision making. We can see some of this in the [paradox of choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)/
 [^SimplicityIsOverrated]: there has been some criticism for the imperative that we should pursue simplicity. Ref. [simplicity is overrated](https://jnd.org/simplicity_is_highly_overrated/)
