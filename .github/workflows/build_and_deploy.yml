@@ -1,6 +1,6 @@
 # This workflow will build Jupyter Book and push to treathunterz.com
 
-name: Build and Deploy
+name: Build and Deploy Book
 
 # Controls when the action will run. 
 on:
