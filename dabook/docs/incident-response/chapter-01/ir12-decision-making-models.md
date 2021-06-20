@@ -12,11 +12,11 @@ weight: 2
 authors: "Diego Perez (@darkquassar)"
 ---
 
-# Risk and Decision Making Models
+# Risk and Decision Making
 
 Incident Response is the practical operationalization of risk, i.e., a structured approach to tactical cyber operations in the context of uncertainty and ambiguity. In this section, we will lay out some decision making models and their implications.
 
-# Decision Making Models
+# Decision Making Frameworks and Models
 
 Decision making is usually classed as a *rational process* by which intelligent agents select a course of action based on projected scenarios and goals. Despite the previous sentence's encompassing definition, there are many aspects that are not self-evident: whether emotion and intuition play a role in decision making, whether our action course needs to be perfectly planned before any execution attempts or whether it accepts margins of error, whether our criteria are flexible or not, etc. A decision that is rational to one actor might not be so to another one simply because their criteria for what constitutes a logical choice differs. For some, *best course of action* means a perfectly orchestrated sequence where failure to execute one of the steps in the chain means the whole plan falls through. For others, *best course of action* can be interpreted as a *satisfactory* plan that does not produce the maximum return in exchange for its execution, but generates a "good enough" outcome. What is it then, that we mean when we talk about *best course of action*? To define this, we first need to clarify what constitutes the rationale (or rationality) by which choices are evaluated.
 
@@ -34,12 +34,20 @@ In the field of decision making, this means that, broadly speaking, any decision
 These categories can be broken down into different models: 
 
 - Rational
-	-  The 7-Step Process
-	-  Observe, Orient, Decide, Act (OODA)
-	-  Plan, Do, Check, Act (PDCA)
+	- The 7-Step Process
 - Bounded Rationality
+	- Observe, Orient, Decide, Act (OODA)
+	- Plan, Do, Check, Act (PDCA)
 	- Military Decision Making Process (MDMP)
 	- Structured Decision Making (SDM)
+
+Concomitantly, decision making can be categorized in three levels depending on the organizational scope in which they are defined and effectuated:
+
+- Strategic: asdad
+- Tactical: afsdfsd
+- Operational: 2op34i2
+
+[graph here]
 
 # The Global Rationality Framework
 
@@ -67,6 +75,14 @@ This process consists briefly of the following steps:
 
 As you can see, these steps could be used to explain the majority of decision making models which are in essence variations to this very abstract process definition.
 
+# The Bounded Rationality Framework
+
+The global rationality approach operates based on the assumption that it is possible to "objectively" describe the **decision field** of an agent. In this objective decision field, we can only encounter *external constraints* which are potentially identifiable in their full scope. Such constraints are laid out in front of us, they are assumed to be self-evident given the right amount of information about the problem. In opposition to the global rationality approach, *bounded rationality* tries to account for the factors that explain an agent's *internal constraints*. The subjective environment that filters and limits the agent's cognition of the surrounding field of possibilities. An agent's contextual awareness and perceptual processing of its decision field adds constraints that make decisional actions more realistic. Agents are limited by their capacity to compute multiple different scenarios, both in quantity and quality. Simon states that
+
+> boundedly rational agents experience limits in formulating and solving complex problems and in processing (receiving, storing, retrieving, transmitting) information [^SimonBoundedRat]
+
+Let's explore some bounded rationality models and what are their mechanics. 
+
 ## Observe, Orient, Decide, Act (OODA Loop)
 
 This model focuses on quick decision making processes.
@@ -78,15 +94,6 @@ This model focuses on quick decision making processes.
 PDCA is a four-stage iterative approach to continually improve processes. It became widely known due to American Professor and Engineer W. Edwards Deming who later used the concept of Plan-Do-**Study**-Act (PDSA) since he wanted to emphasize the _analysis_ aspect of it as opposed to a mere _inspection_.
 
 ![plan-do-check-act](https://res.cloudinary.com/dnlarfkn3/image/upload/v1587980533/quasarops/pdca-loop_sjikd2.png)
-
-# The Bounded Rationality Framework
-
-The global rationality approach operates based on the assumption that it is possible to "objectively" describe the **decision field** of an agent. In this objective decision field, we can only encounter *external constraints* which are potentially identifiable in their full scope. Such constraints are laid out in front of us, they are assumed to be self-evident given the right amount of information about the problem. In opposition to the global rationality approach, *bounded rationality* tries to account for the factors that explain an agent's *internal constraints*. The subjective environment that filters and limits the agent's cognition of the surrounding field of possibilities. An agent's contextual awareness and perceptual processing of its decision field adds constraints that make decisional actions more realistic. Agents are limited by their capacity to compute multiple different scenarios, both in quantity and quality. Simon states that
-
-> boundedly rational agents experience limits in formulating and solving complex problems and in processing (receiving, storing, retrieving, transmitting) information [^SimonBoundedRat]
-
-Let's explore some bounded rationality models and what are their mechanics. 
-
 
 ## Military Decision Making Process (MDMP)
 (Graph TBD)
