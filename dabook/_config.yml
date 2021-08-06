@@ -23,12 +23,12 @@ execute:
 html:
   favicon                   : "./figures/logo/favicon-32x32.png"  # A path to a favicon image
   navbar_number_sections    : False  # Add a number to each section in your left navbar
-  google_analytics_id       : "UA-167881009-1"  # A GA id that can be used to track book views.
+  google_analytics_id       : "UA-106202121-5"  # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
   use_repository_button     : true  # Whether to add an "Repository" button to pages. If `true`, repository information in repository: must be filled in
   use_issues_button         : true # Whether to add an "Open issue" button to pages. If `true`, repository information in repository: must be filled in
   use_edit_page_button      : true  # Whether to add an "Suggest edit" button to pages. If `true`, repository information in repository: must be filled in
-  baseurl                   : "https://threathunterz.com/book"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
+  baseurl                   : "https://theway.threathunterz.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
   extra_navbar              : Visit our <a href="https://github.com/darkquasar/book.threathunterz.com">GitHub Repository</a>
     <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
   comments:
@@ -49,6 +49,7 @@ launch_buttons:
 repository:
   url                       : https://github.com/darkquasar/book.threathunterz.com # The URL to your book's repository
   path_to_book              : "dabook"  # A path to your book's folder, relative to the repository root.
+  branch                    : main
 
 #######################################################################################
 # Advanced and power-user settings

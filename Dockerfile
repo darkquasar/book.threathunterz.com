@@ -43,7 +43,7 @@ RUN adduser --disabled-password \
 
 USER ${NB_USER}
 
-COPY dabook/docs ${HOME}/docs
+COPY ./dabook/docs/ ${NB_USER_HOME}/docs/
 
 USER root
 
