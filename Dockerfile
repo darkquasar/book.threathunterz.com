@@ -12,12 +12,6 @@ LABEL description="The Way of the CyberWarrior Dockerfile"
 ENV CYBERNETHUNTER_DIR /opt/cybernethunter/
 ENV CYBERNETHUNTER_SCRIPTS /opt/cybernethunter/scripts
 
-# User ENV
-ENV JUPYTERUSER "cybernethunter"
-ENV JUPYTER_GROUP "jupyterhub"
-ENV JUPYTERUSER_TEMP_HUB_PASS "pass"
-ENV JUPYTERUSER_HOME /home/$JUPYTERUSER
-
 # Conda & Jupyter ENV
 ENV ANACONDA_DIR /opt/cybernethunter/conda3
 ENV JUPYTER_DIR /opt/cybernethunter/jupyter
