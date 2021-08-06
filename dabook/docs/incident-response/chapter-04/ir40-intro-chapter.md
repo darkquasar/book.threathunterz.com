@@ -1,6 +1,6 @@
 ---
 title: "Practical Log Analysis"
-description: "We will define different practical methods to collect, parse and extract meaningful data from logs. Data needs to be transformed into information, information into knowledge."
+description: "We will define different practical methods to collect, parse and extract meaningful data from logs. Data needs to be transformed into information, information into knowledge, knowledge into insight and insight into wisdom."
 chapter: true
 weight: 3
 ---

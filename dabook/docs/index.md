@@ -17,8 +17,6 @@ A live book about Incident Response, Threat Hunting and Cyber Security Operation
 
 The idea for the book was born out of the necessity to organize my own knowledge and help disseminate practical approaches, concepts and techniques to the community.
 
-![](https://res.cloudinary.com/dnlarfkn3/image/upload/c_scale,w_357/v1590545990/docs.quasarops.com/cyberpunk-mural_zrgqks.png)
-
 ### <i class="fas fa-bolt"></i> How?
 
 This is a **live** book, which means it will be under continuous development until it reaches a critical mass of information that can be regarded as a "complete book". This approach is meant to allow me to share my knowledge as it evolves, instead of having to wait for 2 years until a "fully fledged" book is out. This method also allows for *content reformulation based on community feedback and contributions*. 

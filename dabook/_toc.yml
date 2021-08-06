@@ -19,6 +19,9 @@ parts:
 #      - file: docs/incident-response/chapter-02/ir24-containment
 #      - file: docs/incident-response/chapter-02/ir25-erradication
 #      - file: docs/incident-response/chapter-02/ir26-recovery
+  - file: docs/incident-response/chapter-04/ir40-intro-chapter
+    sections:
+    - file: docs/incident-response/chapter-042/DFIR-Test-Notebook-01
 #- caption: SOC Operations
 #  chapters:
 #  - file: docs/soc-operations/chapter-01/soc10-intro-to-soc-operations

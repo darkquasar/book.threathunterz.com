@@ -34,7 +34,7 @@ In my research about complexity, I came across an [article](https://web.archive.
 
 Effectively, _thinking in complicated terms does not mean you are capturing higher levels of complexity_.
 
-To overcome the limitations pointed out by the previous critiques, we need to talk about the two dimensions in which models such as OODA could be improved. Indeed, to defeat the deterministic assumptions of the model, and overcome its simplicity, we need to account for the complexity of dynamic natural and human systems. Does this mean the model needs to be more *complicated*? Not necessarily, *complication and complexity are not the same thing*: they express different characteristics of a system. These characteristics can be summarized in the infographic below:
+To overcome the limitations pointed out by the previous critiques, we need to talk about the two dimensions in which models such as OODA could be improved. Indeed, to defeat the deterministic assumptions of the model, and overcome its simplicity, we need to account for the complexity of dynamic natural and human systems. Does this mean the model needs to be more *complicated*? Not necessarily, *complication and complexity are not the same thing*: they express different characteristics of a system. *Some* of these characteristics can be summarized in the infographic below:
 
 ![complexity-diagram](resources/complexity_diagram.png)
 
