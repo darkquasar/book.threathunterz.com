@@ -7,7 +7,7 @@ weight: 1
 
 # The Way of the Cyber Warrior
 
-![](https://raw.githubusercontent.com/darkquasar/book.threathunterz.com/main/dabook/figures/the-way-of-the-cyber-warrior-01.jpg)
+![](https://raw.githubusercontent.com/darkquasar/book.threathunterz.com/main/thewayof/figures/concept-art/the-way-of-the-cyber-warrior-01.jpg)
 
 ### Investigations into the transient fluctuations of reality in the cybersphere
 
@@ -27,11 +27,10 @@ This is a **live** book, which means it will be under continuous development unt
 
 **Diego Perez** <br/>
 Feedback welcomed! <br/>
-<i class="far fa-envelope"></i> diego.perez@quasarops.com <br/>
+<i class="far fa-envelope"></i> darkquasar7@gmail.com <br/>
 <i class="fab fa-twitter"></i> [@darkquassar](https://twitter.com/darkquassar?lang=en) <br/>
 <i class="fab fa-linkedin-in"></i> [diegope](https://au.linkedin.com/in/diegope) <br/>
 
-Argentina / Australia <br/>
 
 ### Contributors
 
