@@ -1,11 +1,11 @@
-# The Way of the CyberWarrior
+# The Way of the Cyber Warrior
 # JupyterBook Dockerfile
 # Author: Diego Perez (@darkquassar)
 # License: GPL-3.0
 
 FROM darkquasar/cybernethunter-jupyter:1.3
 LABEL maintainer="Diego Perez (@darkquassar)"
-LABEL description="The Way of the CyberWarrior Dockerfile"
+LABEL description="The Way of the Cyber Warrior Dockerfile"
 
 # *** Setting up Env Variables ***
 # Generic ENV
@@ -37,7 +37,7 @@ RUN adduser --disabled-password \
 
 USER ${NB_USER}
 
-COPY ./dabook/ ${NB_USER_HOME}/dabook
+COPY ./thewayof/ ${NB_USER_HOME}/thewayof
 
 USER root
 

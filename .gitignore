@@ -1,12 +1,12 @@
 # Jupyter Book
-dabook/_build/*
+thewayof/_build/*
 .ipynb_checkpoints
 .DS_Store
 **/__pycache__/
 .secrets/*
 \.vscode/settings\.json
-dabook/Pipfile
-dabook/Pipfile\.lock
+thewayof/Pipfile
+thewayof/Pipfile\.lock
 
 # Obsidian
 .obsidian/

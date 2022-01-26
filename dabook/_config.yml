@@ -2,8 +2,8 @@
 # Book settings
 title                       : "The Way of the Cyber Warrior: Tactical Cyber Threat Response"  # The title of the book. Will be placed in the left navbar.
 author                      : Diego Perez  # The author of the book
-copyright                   : "2021"  # Copyright year to be placed in the footer
-logo                        : "./figures/logo/cyber-punk-mf_v7j5mi.png"  # A path to the book logo
+copyright                   : "2020-2022"  # Copyright year to be placed in the footer
+logo                        : "./figures/concept-art/the-way-of-the-cyber-warrior-01.jpg"  # A path to the book logo
 email                       : "darkquasar7@gmail.com"
 exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
 
@@ -48,7 +48,7 @@ launch_buttons:
 
 repository:
   url                       : https://github.com/darkquasar/book.threathunterz.com # The URL to your book's repository
-  path_to_book              : "dabook"  # A path to your book's folder, relative to the repository root.
+  path_to_book              : "thewayof"  # A path to your book's folder, relative to the repository root.
   branch                    : main
 
 #######################################################################################

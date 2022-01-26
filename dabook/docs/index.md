@@ -7,7 +7,7 @@ weight: 1
 
 # The Way of the Cyber Warrior
 
-![](https://res.cloudinary.com/dnlarfkn3/image/upload/v1590544467/docs.quasarops.com/cyber-punk-mf_v7j5mi.png)
+![](https://raw.githubusercontent.com/darkquasar/book.threathunterz.com/main/dabook/figures/the-way-of-the-cyber-warrior-01.jpg)
 
 ### Investigations into the transient fluctuations of reality in the cybersphere
 

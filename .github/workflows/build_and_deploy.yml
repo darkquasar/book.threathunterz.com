@@ -31,20 +31,20 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r ./dabook/requirements.txt
+          pip install -r ./thewayof/requirements.txt
 
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build ./dabook
+          jupyter-book build ./thewayof
 
       - name: Push changes to threathunterz.com
         uses: darkquasar/github-action-push-to-another-repository@master
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: './dabook/_build/html'
+          source-directory: './thewayof/_build/html'
           target-directory: 'static/book'
           destination-github-username: 'darkquasar'
           destination-repository-name: 'threathunterz.com'
-          user-email: darkquasar@quasarops.com
+          user-email: darkquasar7@gmail.com
