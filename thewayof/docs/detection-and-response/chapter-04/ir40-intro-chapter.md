@@ -1,5 +1,7 @@
 ---
-title: "Practical Log Analysis"
+title: "SIEM: Log Ingestion and Analytics"
+chapter: 4
+section: 0
 description: "We will define different practical methods to collect, parse and extract meaningful data from logs. Data needs to be transformed into information, information into knowledge, knowledge into insight and insight into wisdom."
 chapter: true
 weight: 3

@@ -4,24 +4,24 @@ root: docs/index
 parts:
 - caption: Cyber Incident Response
   chapters:
-  - file: docs/incident-response/chapter-01/ir10-intro-chapter
+  - file: docs/detection-and-response/chapter-01/ir10-intro-chapter
     sections:
-    - file: docs/incident-response/chapter-01/ir11-intro-to-incident-response
-    - file: docs/incident-response/chapter-01/ir12-decision-making-models
-    - file: docs/incident-response/chapter-01/ir13-complexity-risk-and-decision-making
-    - file: docs/incident-response/chapter-01/ir14-risk-and-trust
-    - file: docs/incident-response/chapter-01/ir15-risk-matrix
-  - file: docs/incident-response/chapter-02/ir20-intro-chapter
+    - file: docs/detection-and-response/chapter-01/ir11-intro-to-incident-response
+    - file: docs/detection-and-response/chapter-01/ir12-decision-making-models
+    - file: docs/detection-and-response/chapter-01/ir13-complexity-risk-and-decision-making
+    - file: docs/detection-and-response/chapter-01/ir14-risk-and-trust
+    - file: docs/detection-and-response/chapter-01/ir15-risk-matrix
+  - file: docs/detection-and-response/chapter-02/ir20-intro-chapter
     sections:
-    - file: docs/incident-response/chapter-02/ir21-lifecycle-of-ir
-#      - file: docs/incident-response/chapter-02/ir22-preparation
-#      - file: docs/incident-response/chapter-02/ir23-analysis&identification
-#      - file: docs/incident-response/chapter-02/ir24-containment
-#      - file: docs/incident-response/chapter-02/ir25-erradication
-#      - file: docs/incident-response/chapter-02/ir26-recovery
-  - file: docs/incident-response/chapter-04/ir40-intro-chapter
+    - file: docs/detection-and-response/chapter-02/ir21-lifecycle-of-ir
+#      - file: docs/detection-and-response/chapter-02/ir22-preparation
+#      - file: docs/detection-and-response/chapter-02/ir23-analysis&identification
+#      - file: docs/detection-and-response/chapter-02/ir24-containment
+#      - file: docs/detection-and-response/chapter-02/ir25-erradication
+#      - file: docs/detection-and-response/chapter-02/ir26-recovery
+  - file: docs/detection-and-response/chapter-04/ir40-intro-chapter
     sections:
-    - file: docs/incident-response/chapter-04/ir43-nb-test
+    - file: docs/detection-and-response/chapter-04/ir43-nb-test
 #- caption: SOC Operations
 #  chapters:
 #  - file: docs/soc-operations/chapter-01/soc10-intro-to-soc-operations

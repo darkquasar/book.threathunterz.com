@@ -1,5 +1,7 @@
 ---
 title: "The Log Analysis Lab"
+chapter: 4
+section: 1
 date: 2020-04-25
 draft: true
 weight: 8

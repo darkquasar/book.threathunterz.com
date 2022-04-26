@@ -53,7 +53,7 @@ Cyber Security Operations in general, and IR in particular, are intimately linke
 
 We might drive the safest of cars and take all required precautions, but we can't usually predict the likelihood of the car in front of us having an accident whose consequences have an impact on us, causing further cascading effects. When institutions talk about **risk** they are referring to the combination of both risk types. The reason is simple, both types of risk are intimately intertwined since *accounting for the risk you might face* is a default activity of *risk management*. You can, to some degree, anticipate the *risks you face* (those forcibly imposed on you) by applying the same decision mechanisms you apply to any other risk: **evaluating conflicting scenarios and projecting occurrence likelihood**. Going back to our car driving examples, you can account for involuntary risks by adopting a **defensive driving** approach: driving at certain distances from the next car up, taking extra precautions during weekend nights (higher likelihood of other people "drink-driving"), etc.
 
-![total-risk](resources/risk_appetite.png)
+![total-risk](risk_appetite.png)
 
 ## Defining Risk
 

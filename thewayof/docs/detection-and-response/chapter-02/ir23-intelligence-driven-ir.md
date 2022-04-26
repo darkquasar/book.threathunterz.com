@@ -1,8 +1,11 @@
 ---
-title: "Intelligence Driven Incident Response"
-date: 2020-01-11
-draft: true
-weight: 4
+title: "Intelligence Driven IR"
+chapter: 2
+section: 3
+description: "The interface between threat intelligence and incident response"
+chapter: true
+weight: 2
+authors: "Diego Perez (@darkquassar)"
 ---
 
 ## Intelligence-Driven Incident Response

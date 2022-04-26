@@ -6,6 +6,7 @@ weight: 1
 ---
 
 # The Way of the Cyber Warrior
+## Investigations into the transient fluctuations of reality in the cybersphere
 
 ![](https://raw.githubusercontent.com/darkquasar/book.threathunterz.com/main/thewayof/figures/concept-art/the-way-of-the-cyber-warrior-01.jpg)
 
@@ -24,7 +25,7 @@ These forces apply to everyone, not just cyber security practitioners. There is,
 
 The Way of the Cyber Warrior is a difficult one. But we can all walk this path. You do not need fancy tools and advanced weaponry. You do not need commercial solutions and magical technology. You need to develop a new consciousness, a new way of thinking, doing and being. You need determination, discipline, and enthusiasm. You need to be driven. You need to awake your internal shaman. There are distinct levels of understanding as a Cyber Warrior. The way awaits you.
 
-### What are the Investigations into the transient fluctuations of reality in the cybersphere
+### Why?
 
 The idea for the book was born out of the necessity to organize my own knowledge and help disseminate practical approaches, concepts and techniques to the community. This is my journey into the vast ocean of what I call **the cybersphere**, a new world that is slowly emerging as an intersection of the Internet of Things, blockchain, distributed finance, cyber biomes, ecological thinking and the awakening of a new conciousness, adapted for a complex world. 
 
